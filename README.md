@@ -151,8 +151,10 @@ E-Commerce-Sales-Analysis/
 │   ├── Revenue_Boxplot.png
 │   ├── Delivery_Time_Distribution.png
 │   ├── Average_Revenue_by_Region_and_Category.png
-│   ├── E-Commerce_Sales_Dashboard.png
 │   └── ...
+│
+├── dashboard/
+│ └── E-Commerce_Sales_Dashboard.png
 │
 ├── E-Commerce_Sales_Analysis.ipynb
 ├── README.md
